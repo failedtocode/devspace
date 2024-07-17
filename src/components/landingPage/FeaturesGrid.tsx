@@ -108,7 +108,7 @@ export const SkeletonOne = () => {
     <div className="relative flex py-8 mt-16 dark:mt-0 gap-10 h-full">
       <div className="w-full p-0    mx-auto bg-white dark:bg-[#0B0B0F]  shadow-2xl group h-full">
         <div className="flex flex-1 w-full h-full flex-col space-y-2  ">
-          <MacbookScrollEffect />
+          <h1>this is macbook!!! <br/> focus on the coding fella!!!</h1>
         </div>
       </div>
 
